@@ -20,5 +20,5 @@
       Plotly express docs
       Xpert Learning tool
       seaborn docs
-      Grant Smith
+      Grant Smith - Coding assistance (Course instructor) GSmithApps
       
